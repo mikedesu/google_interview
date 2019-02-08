@@ -25,5 +25,7 @@ test2.py - List comprehensions
 test3.py - Nested List comprehensions, matrix transpose, list(zip(*matrix))
 test4.py - del keyword on lists
 test5.py - tuples
+test6.py - mergeSort, merge, and binarySearch on words in a file
+test6clean.py - a cleaned-up test6.py
 ```
 
